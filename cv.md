@@ -11,7 +11,7 @@
 
 I worked as a digital marketing manager many years ago. I had have some experience in web developing, but this is what I want to develop and improve. I finished the course "Web Development Using PHP" at Epam Systems.
 
-[] (My strengths are:)
+**My strengths are:**
 * An easy/quick learner
 * Ability to quickly adapt to change
 * Hard-working
